@@ -1,6 +1,8 @@
 # Bypass_Mem_huorong
 [原创]CS远控---简单处理绕过火绒最新版内存查杀
 
+B站视频演示地址： https://www.bilibili.com/video/BV12ut4zuEb8/?vd_source=229f70258c44853078f16a5decbc2fb0
+
 技术交流 请加微信群   超过一定人数加入，就打算直播一个公开课讲解或者公布这个技术。
 （实际上我很菜，不是啥高深技术，主要是原创思路，大佬请绕过，别喷我）
 
